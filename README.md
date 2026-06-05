@@ -83,4 +83,4 @@ newman run docs/isolation-<service>-service.postman_collection.json -e docs/loca
 
 ## Authors
 
-Developed by the project team. Repository maintained on GitHub.
+Matteo Giannini · Emanuele Buonaccorsi · Francesco Camaccioli · Leonardo Manneschi
