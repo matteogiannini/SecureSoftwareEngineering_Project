@@ -1,3 +1,22 @@
+# macOS
 .DS_Store
+.AppleDouble
+.LSOverride
+
+# Editors
+*.swp
+*~
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local storage volumes
 /src/minio-storage/data-volume/
-__pycache__
+
+# Environment
+.env
